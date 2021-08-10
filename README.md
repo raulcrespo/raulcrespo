@@ -1,1 +1,1 @@
-Endereço novo: github.com/crespo
+Endereço novo: https://github.com/crespo/
